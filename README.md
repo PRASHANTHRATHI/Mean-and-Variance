@@ -1,5 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
+# NAME:PRASHANTH.K
+# REGISTER NUMBER:212223230152
 
 # Aim : 
 
